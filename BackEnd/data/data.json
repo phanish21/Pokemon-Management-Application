@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": "00126655-cc68-4438-9b46-5d6a60900e69",
+      "name": "ash",
+      "pokemons": [
+        {
+          "id": "4af8b7a4-37ff-49da-b8a9-8c929ac20331",
+          "name": "blaziken",
+          "ability": "speed-boost",
+          "positionX": "10",
+          "positionY": "190",
+          "speed": "11",
+          "direction": "right"
+        },
+        {
+          "id": "7b1b50e9-9617-4ea2-8fd3-cbe8caf873e1",
+          "name": "alcremie",
+          "ability": "",
+          "positionX": "8",
+          "positionY": "300",
+          "speed": "51",
+          "direction": "right"
+        }
+      ]
+    },
+    {
+      "id": "9f10cdba-360c-48e6-891c-0298febb86f7",
+      "name": "jenny",
+      "pokemons": [
+        {
+          "id": "32106ce1-ebc2-480c-a5c3-6655fa651e22",
+          "name": "camerupt",
+          "ability": "magma-armor",
+          "positionX": "5",
+          "positionY": "250",
+          "speed": "52",
+          "direction": "right"
+        },
+        {
+          "id": "16726dfa-bbcf-4abf-bb9c-188bd0ffc537",
+          "name": "caterpie",
+          "ability": "shield-dust",
+          "positionX": "54",
+          "positionY": "300",
+          "speed": "41",
+          "direction": "right"
+        }
+      ]
+    },
+    {
+      "id": "000c8142-1ea4-4ad5-b045-af38378a3fff",
+      "name": "merry",
+      "pokemons": []
+    }
+  ]
+}
